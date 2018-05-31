@@ -8,7 +8,7 @@ package calculator;
 import java.util.Scanner;
 
 /**
- *
+ * 
  * @author Anay
  */
 public class Calculator {
