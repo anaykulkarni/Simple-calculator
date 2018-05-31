@@ -14,8 +14,11 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
- * @author Anay
+ * The class CalculatorTest defines 20 test cases for the Calculator class.
+ * Each arithmetic operation has 5 test cases. 
+ * 
+ * @version     1.1     31 May 2018
+ * @author      Anay Kulkarni
  */
 public class CalculatorTest {
     
